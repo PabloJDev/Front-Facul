@@ -1,0 +1,23 @@
+ul {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    gap: 20px;
+    border-radius: 100px;
+    background-color: rgb(104, 3, 104);
+    height: 50px;
+    align-items: center;
+    list-style: none;
+}
+
+li a {
+    background-color: rgb(146, 9, 146);
+    border-radius: 10px;
+    color: white;
+}
+
+nav ul li a:hover {
+    background-color: blueviolet;
+    border-radius: 10px;
+}

@@ -1,0 +1,20 @@
+body {
+    background-color: #000080;
+    display: flex;
+    justify-content: center;
+}
+
+.cartao {
+    width: 350px;
+    height: 250px;
+    background-color: #9eccf1;
+    border-radius: 15px;
+    padding: 100px;
+    margin: 100px;
+    text-align: center;
+}
+
+p {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
